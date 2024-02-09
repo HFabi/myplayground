@@ -10,8 +10,6 @@ abcd
 
 asd
 
-
-
 cde
 
 asd
