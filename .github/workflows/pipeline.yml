@@ -1,4 +1,4 @@
-name: Pipeline
+cname: Pipeline
 
 on:
   workflow_dispatch:
@@ -16,4 +16,4 @@ jobs:
       - name: copy
         run: cp ./weather/example.txt .
       - name: print
-        run: touch example.txt
+        run: cat example.txt
